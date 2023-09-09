@@ -1,0 +1,15 @@
+/* Properties which are inherited by the child element*/
+
+body{
+  color:rgb(248, 22, 22);
+  font-size: x-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+/* Properties which are not inherited by the child element */
+
+body{
+  background-color: rgb(32, 31, 31);
+  margin:30px;
+}
